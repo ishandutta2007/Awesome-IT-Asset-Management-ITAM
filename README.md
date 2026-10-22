@@ -30,55 +30,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global IT Asset Management (ITAM) market is estimated at approximately **$3.3 billion to $8.0 billion** in 2025–2026, projected to expand at a compound annual growth rate (CAGR) of 6% to 8% driven by enterprise cloud adoption, SaaS license sprawl, workforce mobility, and regulatory compliance. The sector is **moderately to heavily fragmented** rather than winner-take-all: while platform titans like ServiceNow dominate enterprise ITSM/ITAM consolidation, dedicated SAM/discovery specialists (such as Flexera and Lansweeper) and flexible mid-market solutions (such as Freshservice and ManageEngine) command substantial, enduring market shares.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[ServiceNow Asset Management](https://www.servicenow.com/)**  
-
-  The enterprise ITAM leader, ranked top overall in ISG's 2026 Buyers Guide with leadership in five categories . Deep CMDB integration, AI-driven discovery, and governance across hybrid environments. Enterprise-tier pricing. Best for large organizations already invested in ServiceNow's ITSM platform.
-
-
-
-- **[Ivanti IT Asset Management](https://www.ivanti.com/)**  
-
-  ISG-rated exemplary and a top-three overall leader in 2026 . Strong on automated asset discovery and configuration management aligned with ITSM workflows. Enterprise-priced. Best for organizations needing comprehensive ITAM with proven enterprise support.
-
-
-
-- **[Freshservice (Freshworks)](https://www.freshworks.com/freshservice/)**  
-
-  ISG-rated exemplary and top-three overall leader, with strong customer experience scores . Modern ITSM/ITAM platform with asset discovery, license management, and an approachable interface. Per-agent pricing. Best for mid-market teams wanting enterprise capability without enterprise complexity.
-
-
-
-- **[ManageEngine AssetExplorer](https://www.manageengine.com/products/asset-explorer/)**  
-
-  ISG-rated Innovative and a leader in Product Experience alongside ServiceNow and Ivanti . Comprehensive asset tracking, software license management, and reporting. Per-technician pricing with a free edition for small environments. Best for budget-conscious organizations needing solid ITAM fundamentals.
-
-
-
-- **[Flexera One](https://www.flexera.com/)**  
-
-  ISG-rated Exemplary, specializing in **Software Asset Management (SAM)** and cloud cost optimization . Strong for organizations facing software audits from vendors like Oracle and Microsoft. Enterprise-priced.
-
-
-
-- **[Lansweeper](https://www.lansweeper.com/)**  
-
-  ISG-rated Innovative . Powerful agentless network discovery scanning Active Directory, SNMP, SSH, and cloud environments. **Free tier** capped at 100 assets; paid Starter at $199/month for 2,000 assets . Best for MSPs and IT teams needing automated discovery before committing to full ITAM.
-
-
+| Product | Company Size / Valuation / Revenue | Starting Price | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[ServiceNow Asset Management](https://www.servicenow.com/)** | **~$131B-$150B Market Cap** ($13.28B FY25 revenue) | ~$100 /fulfiller agent/month (enterprise contracts, billed annually) | Free Personal Developer Instance (PDI) with full administrative sandbox; hibernates after inactivity | The enterprise ITAM leader, named top overall in ISG's Buyers Guide with deep CMDB integration, AI-driven discovery, and enterprise governance. |
+| **[ManageEngine AssetExplorer](https://www.manageengine.com/products/asset-explorer/)** | **~$12.5B Industry Valuation** (~$1.47B FY25 Zoho Corp revenue, ~$580M-$600M ME division) | $955 /year (up to 250 assets, Professional Edition) | Free forever for up to 50 assets (Cloud) or 25 assets (On-Premises) with unlimited technicians; 30-day trial for 250 assets | Comprehensive asset tracking, software license management, and audit compliance with both cloud and on-premises deployments in budget-friendly tiers. |
+| **[Freshservice (Freshworks)](https://www.freshworks.com/freshservice/)** | **~$3.5B-$3.8B Market Cap** (~$903M TTM revenue) | $19 /agent/month (Starter tier, billed annually) | 14-day free trial with unrestricted access to enterprise features; no credit card required | Modern ITSM/ITAM platform with automated discovery, license management, and intuitive workflows for growing teams. |
+| **[Flexera One](https://www.flexera.com/)** | **~$2.9B Valuation** (~$300M-$400M estimated revenue) | ~$50,000 /year (enterprise quote-based; typically scales around ~5% of annual cloud spend) | No permanent free tier; evaluations provided via guided demos or custom Proof-of-Concept (PoC) pilots | Industry-leading Software Asset Management (SAM) and cloud cost optimization, specializing in Oracle, Microsoft, and SAP audit defense. |
+| **[Ivanti IT Asset Management](https://www.ivanti.com/)** | **~$2.0B Valuation** (~$690M-$1B+ estimated revenue) | ~$68 /agent/month (enterprise quote-based; analyst seat model) | No permanent free tier; live demos and custom Proof-of-Concept (PoC) evaluations available via sales | ITAM and Neurons discovery engine delivering automated asset lifecycle tracking and configuration governance aligned with ITSM. |
+| **[Lansweeper](https://www.lansweeper.com/)** | **~$920M Valuation** (~$115M estimated revenue) | $245 /month ($2,940 billed annually for Starter tier, up to 2,000 assets) | Free forever for up to 100 assets (unlimited scanning, community support); 14-day full-feature trial | Powerful agentless discovery solution scanning Active Directory, SNMP, SSH, and cloud environments without per-device agents. |
 
 ## Open-Source GitHub Projects
 
